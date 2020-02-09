@@ -1,0 +1,11 @@
+{
+  "body": "{\"content\":\"m&m the best bitchezzzzzzzzzzz\",\"attachment\":\"new.jpg\"}",
+  "pathParameters": {
+    "id": "11721150-4b70-11ea-87b7-df89bd248066"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
